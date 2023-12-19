@@ -1,0 +1,135 @@
+body{
+    width: 1000px;
+    height: auto;
+    padding: 10px;
+    border:1px solid;
+    margin: auto;
+    margin-top: 20px;
+}
+.container{
+    text-align: center;
+    display: flex;
+    gap: 20px;
+}
+.parent1{
+    width: 500px;
+    height: auto;
+    text-align: left;
+}
+input{
+    width: 420px;
+    height: 30px;
+}
+
+
+.item1{
+    display: flex;
+    justify-content: right;
+    padding-right:35px ;
+}
+button{
+   text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px 30px;
+    cursor: pointer;
+}
+
+.button2{
+    background-color: aqua;
+}
+.parent2{
+    width: 500px;
+    height: auto;
+    background-color: aquamarine;
+}
+.child1{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 130px;
+    height: 50px;
+    padding-top: 25px;
+    background-color: blue;
+    color: aliceblue;
+
+
+}
+.vl {
+    
+        width: 5px; 
+        background-color: black;
+        height: 60px; 
+        float: left;
+        margin-left: 95px;
+      
+}
+.triangle_down {
+   
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 15px solid #2f2f2f;
+  
+    float: left;
+    
+    margin-top: 60px;
+    margin-left: -16px;
+  }
+.child2{
+    margin-left: 30px;
+    margin-top: 70px;
+    width: 130px;
+    height: 50px;
+    
+    padding-top: 25px;
+    background-color: rgb(197, 248, 11);
+    color: rgb(15, 16, 17);
+
+}
+.child3{
+    margin-left: -80px;
+    margin-top: 75px;
+    width: 130px;
+    height: 50px;
+    
+    padding-top: 25px;
+    background-color: rgb(197, 248, 11);
+    color: rgb(15, 16, 17);
+
+} 
+.parent3{
+    display: flex;
+}
+.arrow {
+    width: 120px;
+  }
+  
+  .line {
+    margin-top: 14px;
+    width: 70px;
+    background: rgb(10, 10, 14);
+    height: 5px;
+    float: left;
+    margin-top: 110px;
+  }
+  
+  .point {
+   
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 15px solid rgb(11, 11, 22);
+    float: right;
+    margin-top: 98px;
+    margin-right: 35px;
+  } 
+  .child4{
+    margin-left: -35px;
+    margin-top: 75px;
+    width: 130px;
+    height: 50px;
+    
+    padding-top: 25px;
+    background-color: rgb(197, 248, 11);
+    color: rgb(15, 16, 17);
+   
+
+  }
