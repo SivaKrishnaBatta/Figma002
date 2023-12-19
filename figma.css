@@ -1,0 +1,148 @@
+
+.container{
+    margin: auto;
+    padding: 60px;
+    padding-left: 30px;
+    width: 1000px;
+    height: auto;
+    
+    
+   
+    border: solid blueviolet;
+    
+}
+
+
+.item1{
+ text-align: center;
+}
+
+.parent1{
+    display: flex;
+}
+
+
+.child1{
+margin-right: auto;
+    
+
+font-size: 32px;
+font-weight: 400;
+line-height: 36px;
+
+
+
+}
+.child2{
+    
+
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+width: 520px;
+}
+.parent2{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.child3{
+    
+
+font-size: 15px;
+font-weight: 600;
+line-height: 20px;
+
+
+padding-left:417px;
+
+
+}
+.child4{
+    
+padding-right: 200px;
+font-size: 15px;
+font-weight: 600;
+line-height: 20px;
+}
+.nano{
+
+font-size: 13px;
+font-weight: 400;
+line-height: 14px;
+}
+.child5{
+font-size: 15px;
+font-weight: 600;
+line-height: 20px;
+padding-left:430px;
+
+}
+.child6{
+    padding-right: 180px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;    
+}
+table{
+    width: 100%;
+
+
+
+}
+th{
+
+text-align: left;
+
+}
+.nano1{
+    text-align: right;
+    
+}
+div1{
+    
+    float: right;
+   
+    border-top: 2px solid;
+    width: 52%;
+    
+}
+.parent4{
+    display: flex;
+    justify-content: space-between;
+}
+  .parent3{
+    display: flex;
+    justify-content: space-between;
+  }
+  .item2{
+    
+
+font-size: 15px;
+
+line-height: 20px;
+
+
+  }
+
+  div2{
+    display: flex;
+    justify-content: space-between;
+  }
+.hr1{
+    border: 1px solid ;
+} 
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.item2{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 185px;
+}
+.container3{
+    display: flex;
+    justify-content: right;
+}
